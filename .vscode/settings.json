@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6bdcc705-8db6-4029-953a-e749070e6db6/resourceGroups/WebAppGroup/providers/Microsoft.Web/sites/HelloJSApp",
+    "appService.deploySubpath": ""
+}
